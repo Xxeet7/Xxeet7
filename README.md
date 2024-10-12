@@ -19,7 +19,7 @@ Feel free to reach out if you’d like to connect, collaborate, or chat about te
 **<h3 align="left">Rapid Fire</h3>**
 
 - 🌱 I'm currently learning: **📖 Laravel, PHP, Database, and little bit of Frontend and Javascript World**
-- 💬 Ask me about: **🗨️ Laravel,PHP,MySQL,Java, and Tech!!👀**
+- 💬 Ask me about: **🗨️ Laravel, PHP, MySQL, Java, and Tech!!👀**
 - ⚡ Fun fact: **🐧 Arch is my first linux distro😆**
 
  **<h3 align="left">Skills</h3>**
