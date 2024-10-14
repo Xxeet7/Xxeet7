@@ -1,7 +1,7 @@
 ![👋 Hello there, im Kling but you can call me Sword](https://images6.alphacoders.com/137/thumb-1920-1370788.jpeg)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
+<div align="center" id="toc">
+  <ul style="list-style: none">
     <summary>
       <h1>
         👋 Hello there, im Kling but you can call me Sword
@@ -10,11 +10,13 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/7sword" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/sword_archived" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/Dry-Lifeguard37" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Kling777191503" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://www.linkedin.com/in/7sword" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/sword_archived" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/Dry-Lifeguard37" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Kling777191503" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="center">im a passionate developer with a love for coding and problem-solving. I enjoy working on projects that challenge my skills and allow me to learn new technologies.
 Feel free to reach out if you’d like to connect, collaborate, or chat about tech, games, cyber, or anything im open for it👀</h3>**
+
+<br>
 
 **<h3 align="left">Rapid Fire</h3>**
 
