@@ -1,7 +1,7 @@
 **<h2 align="left">Bio📃</h2>**
 
-- 🌱 I'm currently grinding at: **📖 Javascript and DSA(Data structure and Algorithm)**
-- 💬 Hook me about: **🗨️ tech, manga(especially berserk ❤️)**
+- 🌱 I'm currently grinding at: **📖 Javascript and DSA (Data structure and Algorithm)**
+- 💬 Hook me about: **🗨️ tech, manga, movies, or anything today people likes (I just like to hear people yapping about themself)**
 - ⚡ Cool fact: **🐧 Arch is my first linux distro (ye i know it's stupid, but i liked it tho)**
 - 🚀 Words from me: **🐘 Stop chasing the next shiny object. choose one, and cope with it. Once you're comfortable, then expand whatever but always keep in mind to do it one by one, Don't pile 3, 4, 5, or even more shits on yourself.**
 
