@@ -15,3 +15,8 @@
 
 > [!tip]
 > 🧠 Also checkout my grind at [LeetCode](https://leetcode.com/u/Xxeet7/) <— this where my brain do the reps.
+
+<br>
+<p align="center">
+  <img alt="Moe Counter!" src="https://count.getloli.com/@Xxeet7?name=Xxeet7&theme=original-new&padding=10&offset=40&align=top&scale=2&pixelated=1&darkmode=auto&num=8907653421">
+</p>
