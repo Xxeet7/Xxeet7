@@ -1,35 +1,33 @@
-### Hi there 👋
+### Hey there! 👋
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+<img align="right" src="https://raw.githubusercontent.com/Xxeet7/Xxeet7/main/assets/laravel.svg" width="260">
+
+I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast. Currently in love with the PHP and Laravel ecosystem, thinking to build something useful for the community. Checkout on what i work recently!
+
+#### 👷 Check out things I'm currently workin on
+{{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 10}}
+#### 🌱 My latest projects and Stuffs
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+#### 🔭 Latest productions I've contributed to
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
+#### 🔨 My recent Contibutions
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 💬 Feedback
+#### ⭐ Recent repos that i liked or helpful to me
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
 
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
-<!-- comments will be preserved -->
+This Readme is auto-generated with the awesome [readme-scribe](https://github.com/muesli/readme-scribe)!
+Be sure to check em' out
