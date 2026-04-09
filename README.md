@@ -28,11 +28,11 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [alan7383/RemoteCam-Enhanced](https://github.com/alan7383/RemoteCam-Enhanced) - Version revisited of RemoteCam, cleaner, smoother, and fully open. Use your Android device as a webcam for OBS or v4l2. Open source, free, and ad-free. (2 days ago)
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (4 days ago)
-- [dexter-xD/Kivo](https://github.com/dexter-xD/Kivo) - A minimal, fast, and modern desktop HTTP client built with Rust and Tauri (4 days ago)
+- [alan7383/RemoteCam-Enhanced](https://github.com/alan7383/RemoteCam-Enhanced) - Version revisited of RemoteCam, cleaner, smoother, and fully open. Use your Android device as a webcam for OBS or v4l2. Open source, free, and ad-free. (3 days ago)
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (5 days ago)
+- [dexter-xD/Kivo](https://github.com/dexter-xD/Kivo) - A minimal, fast, and modern desktop HTTP client built with Rust and Tauri (5 days ago)
 - [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story&#39;s engine written in Rust (2 weeks ago)
-- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust. (1 month ago)
+- [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust. (2 months ago)
 
 This Readme is auto-generated with the awesome [readme-scribe](https://github.com/muesli/readme-scribe)!
 Be sure to check em' out
