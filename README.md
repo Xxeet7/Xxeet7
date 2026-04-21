@@ -29,7 +29,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 #### ⭐ Recent repos that i liked or helpful to me
 
 - [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (5 days ago)
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app  (1 week ago)
+- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app  (1 week ago)
 - [alan7383/RemoteCam-Enhanced](https://github.com/alan7383/RemoteCam-Enhanced) - Version revisited of RemoteCam, cleaner, smoother, and fully open. Use your Android device as a webcam for OBS or v4l2. Open source, free, and ad-free. (2 weeks ago)
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (2 weeks ago)
 - [dexter-xD/Kivo](https://github.com/dexter-xD/Kivo) - A minimal, fast, and modern desktop HTTP client built with Rust and Tauri (2 weeks ago)
