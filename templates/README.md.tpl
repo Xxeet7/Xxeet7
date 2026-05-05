@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-<img align="right" src="https://raw.githubusercontent.com/Xxeet7/Xxeet7/main/assets/laravel.svg" width="260">
+<img align="right" src="https://raw.githubusercontent.com/Xxeet7/Xxeet7/main/assets/shell32-092.png" width="260">
 
 I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast. Currently in love with the PHP and Laravel ecosystem, thinking to build something useful for the community. Checkout on what i work recently!
 
