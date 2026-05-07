@@ -20,7 +20,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 🔭 Latest productions I've contributed to
 
-- [Xxeet7/passwordGen.js](https://github.com/Xxeet7/passwordGen.js) ([v1.0.0](https://github.com/Xxeet7/passwordGen.js/releases/tag/v1.0.0), 9 months ago) - secure password generator with options included for the terminal
+- [Xxeet7/passwordGen.js](https://github.com/Xxeet7/passwordGen.js) ([v1.0.0](https://github.com/Xxeet7/passwordGen.js/releases/tag/v1.0.0), 10 months ago) - secure password generator with options included for the terminal
 
 #### 🔨 My recent Contibutions
 
@@ -28,7 +28,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (2 weeks ago)
+- [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (3 weeks ago)
 - [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app  (3 weeks ago)
 - [alan7383/RemoteCam-Enhanced](https://github.com/alan7383/RemoteCam-Enhanced) - Version revisited of RemoteCam, cleaner, smoother, and fully open. Use your Android device as a webcam for OBS or v4l2. Open source, free, and ad-free. (1 month ago)
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (1 month ago)
