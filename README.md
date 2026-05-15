@@ -28,7 +28,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 day ago)
+- [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (2 days ago)
 - [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (4 weeks ago)
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app  (1 month ago)
 - [alan7383/RemoteCam-Enhanced](https://github.com/alan7383/RemoteCam-Enhanced) - Version revisited of RemoteCam, cleaner, smoother, and fully open. Use your Android device as a webcam for OBS or v4l2. Open source, free, and ad-free. (1 month ago)
