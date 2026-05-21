@@ -28,11 +28,11 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (today)
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 week ago)
 - [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (1 month ago)
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app  (1 month ago)
 - [alan7383/RemoteCam-Enhanced](https://github.com/alan7383/RemoteCam-Enhanced) - Version revisited of RemoteCam, cleaner, smoother, and fully open. Use your Android device as a webcam for OBS or v4l2. Open source, free, and ad-free. (1 month ago)
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (1 month ago)
 
 This Readme is auto-generated with the awesome [readme-scribe](https://github.com/muesli/readme-scribe)!
 Be sure to check em' out
