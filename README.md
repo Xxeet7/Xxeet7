@@ -24,7 +24,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 🔨 My recent Contibutions
 
-- [Add wsl support](https://github.com/asvvvad1/clipboard/pull/2) on [asvvvad1/clipboard](https://github.com/asvvvad1/clipboard) (8 months ago)
+- [Add wsl support](https://github.com/asvvvad1/clipboard/pull/2) on [asvvvad1/clipboard](https://github.com/asvvvad1/clipboard) (9 months ago)
 
 #### ⭐ Recent repos that i liked or helpful to me
 
