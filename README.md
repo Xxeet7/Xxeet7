@@ -20,7 +20,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 🔭 Latest productions I've contributed to
 
-- [Xxeet7/passwordGen.js](https://github.com/Xxeet7/passwordGen.js) ([v1.0.0](https://github.com/Xxeet7/passwordGen.js/releases/tag/v1.0.0), 10 months ago) - secure password generator with options included for the terminal
+- [Xxeet7/passwordGen.js](https://github.com/Xxeet7/passwordGen.js) ([v1.0.0](https://github.com/Xxeet7/passwordGen.js/releases/tag/v1.0.0), 11 months ago) - secure password generator with options included for the terminal
 
 #### 🔨 My recent Contibutions
 
@@ -28,7 +28,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 &#43; PyQt6-WebEngine. (2 days ago)
+- [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 &#43; PyQt6-WebEngine. (3 days ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (2 weeks ago)
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (3 weeks ago)
 - [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (1 month ago)
