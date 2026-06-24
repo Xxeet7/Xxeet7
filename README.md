@@ -28,7 +28,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 &#43; PyQt6-WebEngine. (2 weeks ago)
+- [rafatosta/zapzap](https://github.com/rafatosta/zapzap) - WhatsApp desktop application written in PyQt6 &#43; PyQt6-WebEngine. (3 weeks ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 month ago)
 - [geodro/lerd](https://github.com/geodro/lerd) - Open-source, Herd-like local PHP development environment for Linux and macOS. Automatic .test domains, per-project PHP/Node isolation, one-command TLS. Podman-native, rootless. (1 month ago)
 - [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager) - A user-friendly GUI to manage systemd units (2 months ago)
