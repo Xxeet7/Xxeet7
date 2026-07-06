@@ -20,7 +20,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 🔭 Latest productions I've contributed to
 
-- [Xxeet7/passwordGen.js](https://github.com/Xxeet7/passwordGen.js) ([v1.0.0](https://github.com/Xxeet7/passwordGen.js/releases/tag/v1.0.0), 11 months ago) - secure password generator with options included for the terminal
+- [Xxeet7/passwordGen.js](https://github.com/Xxeet7/passwordGen.js) ([v1.0.0](https://github.com/Xxeet7/passwordGen.js/releases/tag/v1.0.0), 1 year ago) - secure password generator with options included for the terminal
 
 #### 🔨 My recent Contibutions
 
