@@ -6,7 +6,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 👷 Check out things I'm currently workin on
 
-- [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (1 day ago)
+- [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (2 days ago)
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh (7 months ago)
 - [Xxeet7/py-remote-code-exexution-test](https://github.com/Xxeet7/py-remote-code-exexution-test) -  (7 months ago)
 
