@@ -6,17 +6,17 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 👷 Check out things I'm currently workin on
 
+- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (today)
 - [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (1 week ago)
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh (8 months ago)
-- [Xxeet7/py-remote-code-exexution-test](https://github.com/Xxeet7/py-remote-code-exexution-test) -  (8 months ago)
 
 #### 🌱 My latest projects and Stuffs
 
+- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh
 - [Xxeet7/py-remote-code-exexution-test](https://github.com/Xxeet7/py-remote-code-exexution-test) - 
 - [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive
 - [Xxeet7/yazi-config](https://github.com/Xxeet7/yazi-config) - minimal yazi config to use with my nvim config
-- [Xxeet7/pwtools](https://github.com/Xxeet7/pwtools) - CLI App that bundled with tools for password
 
 #### 🔭 Latest productions I've contributed to
 
