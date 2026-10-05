@@ -6,8 +6,8 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 👷 Check out things I'm currently workin on
 
-- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (today)
-- [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (2 weeks ago)
+- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (1 day ago)
+- [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (3 weeks ago)
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh (8 months ago)
 
 #### 🌱 My latest projects and Stuffs
