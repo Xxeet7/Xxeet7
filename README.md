@@ -27,8 +27,8 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [AndroidCSOfficial/android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps. (3 days ago)
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku (3 weeks ago)
+- [AndroidCSOfficial/android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps. (4 days ago)
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku (4 weeks ago)
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based &#34;The Matrix&#34; like implementation (1 month ago)
 - [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for GNU Emacs. (1 month ago)
 - [keshavbhatt/whatsie](https://github.com/keshavbhatt/whatsie) - Feature rich WhatsApp Client for Desktop Linux  (1 month ago)
