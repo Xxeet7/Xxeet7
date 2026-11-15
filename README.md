@@ -6,7 +6,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 👷 Check out things I'm currently workin on
 
-- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (today)
+- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (1 day ago)
 - [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (2 months ago)
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh (9 months ago)
 
@@ -27,8 +27,8 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui (today)
-- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs. (2 days ago)
+- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui (1 day ago)
+- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs. (3 days ago)
 - [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for GNU Emacs. (1 month ago)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (2 months ago)
 - [dongdongbh/Mindwtr](https://github.com/dongdongbh/Mindwtr) - Get tasks and ideas out of your head. A free GTD to-do app for desktop and mobile. Works offline, no account needed (2 months ago)
