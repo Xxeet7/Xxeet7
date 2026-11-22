@@ -6,7 +6,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 👷 Check out things I'm currently workin on
 
-- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (4 days ago)
+- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (5 days ago)
 - [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (2 months ago)
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh (9 months ago)
 
@@ -27,7 +27,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [grapedjuice/ytm-rs](https://github.com/grapedjuice/ytm-rs) - Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes. (6 days ago)
+- [grapedjuice/ytm-rs](https://github.com/grapedjuice/ytm-rs) - Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes. (1 week ago)
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui (1 week ago)
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs. (1 week ago)
 - [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Highly accessible themes for Neovim, conforming with the highest standard for color contrast between background and foreground values (WCAG AAA). A Neovim port of the original Modus Themes built for GNU Emacs. (2 months ago)
