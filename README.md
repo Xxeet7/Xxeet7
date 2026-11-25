@@ -6,7 +6,7 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### 👷 Check out things I'm currently workin on
 
-- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (2 days ago)
+- [Xxeet7/nix-config](https://github.com/Xxeet7/nix-config) - Nix config for my machine (3 days ago)
 - [Xxeet7/dotfiles](https://github.com/Xxeet7/dotfiles) - my dotfiles for daily drive (2 months ago)
 - [Xxeet7/fetchGithubEvent.php](https://github.com/Xxeet7/fetchGithubEvent.php) - project for roadmap.sh (10 months ago)
 
@@ -27,10 +27,10 @@ I'm Lingga, a Software dev who likes backend stuff and an open source enthusiast
 
 #### ⭐ Recent repos that i liked or helpful to me
 
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources. (1 day ago)
-- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources. (1 day ago)
-- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (1 day ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 day ago)
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources. (2 days ago)
+- [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources. (2 days ago)
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git (2 days ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (2 days ago)
 - [grapedjuice/ytm-rs](https://github.com/grapedjuice/ytm-rs) - Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes. (1 week ago)
 
 This Readme is auto-generated with the awesome [readme-scribe](https://github.com/muesli/readme-scribe)!
